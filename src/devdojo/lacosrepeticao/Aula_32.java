@@ -2,7 +2,7 @@ package devdojo.lacosrepeticao;
 
 import java.util.Scanner;
 
-public class Aula_05 {
+public class Aula_32 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
