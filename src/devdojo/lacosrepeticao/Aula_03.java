@@ -14,6 +14,7 @@ public class Aula_03 {
 			System.out.println("Escolha uma das opções acima: ");
 			menu = sc.nextInt();
 
+			sc.close();
 		}
 
 	}
