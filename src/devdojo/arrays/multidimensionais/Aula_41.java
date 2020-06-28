@@ -27,7 +27,7 @@ public class Aula_41 {
 				System.out.println("[" + i + "] [" + j + "]=" + arrayMulti1[i][j]);
 			}
 		}
-
+		sc.close();
 	}
 
 }
