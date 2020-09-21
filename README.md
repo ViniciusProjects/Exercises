@@ -1,1 +1,6 @@
-java exercises
+#Exercises
+
+Logic programming exercises.
+
+
+
